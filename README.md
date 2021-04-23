@@ -146,78 +146,71 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(80).pdf" style="text-decoration:none;">Robust Scene Text Recognition with Automatic Rectification</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(81).pdf" style="text-decoration:none;">The Grid Roofnet:
-a Rooftop Ad Hoc Wireless Network</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(82).pdf" style="text-decoration:none;">Hare: a file system for non-cache-coherent multicores</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(81).pdf" style="text-decoration:none;">All You Need is a Second Look: Towards Tighter Arbitrary Shape Text Detection</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(82).pdf" style="text-decoration:none;">An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(83).pdf" style="text-decoration:none;">Certifying a Crash-safe File System</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(84).pdf" style="text-decoration:none;">An Overview of Approaches Used In Focused Crawlers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(83).pdf" style="text-decoration:none;">Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(84).pdf" style="text-decoration:none;">Recursive Recurrent Nets with Attention Modeling for OCR in the Wild</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(85).pdf" style="text-decoration:none;">Network Layer Support for Overlay Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(86).pdf" style="text-decoration:none;">Device-Transparent Personal Storage</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(85).pdf" style="text-decoration:none;">Scene Text Recognition with Sliding Convolutional Character Models</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(86).pdf" style="text-decoration:none;">Adapting Style and Content for Attended Text Sequence Recognition</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(87).pdf" style="text-decoration:none;">Bit-rate Selection in Wireless Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(88).pdf" style="text-decoration:none;">Routing Tradeoffs in Dynamic Peer­to­peer Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(89).pdf" style="text-decoration:none;">Jitk: A Trustworthy In-Kernel Interpreter Infrastructure</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(87).pdf" style="text-decoration:none;">PixelLink: Detecting Scene Text via Instance Segmentation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(88).pdf" style="text-decoration:none;">Synthetically Supervised Feature Learning for Scene Text Recognition</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(89).pdf" style="text-decoration:none;">Gaussian Constrained Attention Network for Scene Text Recognition</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(90).pdf" style="text-decoration:none;"> Applying Exokernel Principles to Conventional. Operating Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(91).pdf" style="text-decoration:none;">User Authentication and Remote Execution
-Across Administrative Domains</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(90).pdf" style="text-decoration:none;"> Synthetic Data for Text Localisation in Natural Images</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(91).pdf" style="text-decoration:none;">Scene Text Recognition using Part-based Tree-structured Character Detection</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(92).pdf" style="text-decoration:none;">Karaoke: Distributed Private Messaging
-Immune to Passive Traffic Analysis</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(93).pdf" style="text-decoration:none;"> Improving Integer Security for Systems with KINT</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(94).pdf" style="text-decoration:none;">Ksplice: Automatic Rebootless Kernel Updates</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(92).pdf" style="text-decoration:none;">Recurrent Calibration Network for Irregular Text Recognition</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(93).pdf" style="text-decoration:none;"> Using Object Information for Spotting Text</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(94).pdf" style="text-decoration:none;">AON: Towards Arbitrarily-Oriented Text Recognition</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(95).pdf" style="text-decoration:none;">Smartcrawler: A Two-stage Crawler For Efficient Search Result</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(95).pdf" style="text-decoration:none;">Adaptive Embedding Gate for Attention-Based Scene Text Recognition</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(96).pdf" style="text-decoration:none;">Non-scalable locks are dangerous</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(96).pdf" style="text-decoration:none;">Edit Probability for Scene Text Recognition</a></li> 
   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(97).pdf" style="text-decoration:none;">An Analysis of Linux Scalability to Many Cores</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(97).pdf" style="text-decoration:none;">Hamming OCR: A Locality Sensitive Hashing Neural Network for Scene Text Recognition</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(98).pdf" style="text-decoration:none;">Software fault isolation with
-API integrity and multi-principal modules</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(98).pdf" style="text-decoration:none;">R<sup>2</sup>CNN: Rotational Region CNN for Orientation Robust Scene Text Detection</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(99).pdf" style="text-decoration:none;">M&M: A Passive Toolkit for Measuring, Correlating, and Tracking Path Characteristics</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(99).pdf" style="text-decoration:none;">End-to-End Text Recognition with Convolutional Neural Networks</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(100).pdf" style="text-decoration:none;">Cache Craftiness for Fast Multicore Key-Value Storage</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(100).pdf" style="text-decoration:none;">Focusing Attention: Towards Accurate Text Recognition in Natural Images</a></li>  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(101).pdf" style="text-decoration:none;">Practical and effective sandboxing for non-root users</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(101).pdf" style="text-decoration:none;">Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(102).pdf" style="text-decoration:none;">Extracting and optimizing formally verified code for systems programming</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(102).pdf" style="text-decoration:none;">NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(103).pdf" style="text-decoration:none;">Optimizing MapReduce for Multicore Architectures </a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(103).pdf" style="text-decoration:none;">Efficient Scene Text Detection with Textual Attention Tower </a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(104).pdf" style="text-decoration:none;">MultiQ: Automated Detection of
-Multiple Bottleneck Capacities Along a Path</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(104).pdf" style="text-decoration:none;">ICDAR 2013 Robust Reading Competition</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(105).pdf" style="text-decoration:none;">Towards Multiverse Databases</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(105).pdf" style="text-decoration:none;">ICDAR 2011 Robust Reading Competition Challenge 2: Reading Text in Scene Images</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(106).pdf" style="text-decoration:none;">Optimizations for Performant Multiverse Databases</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(106).pdf" style="text-decoration:none;">ICDAR 2015 Competition on Robust Reading</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(107).pdf" style="text-decoration:none;">Multiverse Databases for Secure Web Applications</a></li> 
-  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(108).pdf" style="text-decoration:none;">Building web applications on top of encrypted data using Mylar</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(109).pdf" style="text-decoration:none;">Nail: A practical tool for parsing and generating data formats</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(110).pdf" style="text-decoration:none;">NATRON: Overlay Routing to Oblivious Destinations </a></li>  
-   
-<li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(111).pdf" style="text-decoration:none;">Parallel Execution for Conflicting Transactions</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(107).pdf" style="text-decoration:none;">ICDAR 2005 Text Locating Competition Results</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(112).pdf" style="text-decoration:none;">An O(1) algorithm for implementing the LFU
-cache eviction scheme</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(108).pdf" style="text-decoration:none;">Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(113).pdf" style="text-decoration:none;">Scalable Fault Tolerance for High-Performance Streaming Dataflow</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(109).pdf" style="text-decoration:none;">ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(114).pdf" style="text-decoration:none;">Noria: A New Take on Fast Web Application Backends</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(115).pdf" style="text-decoration:none;">Noria: dynamic, partially-stateful data-flow
-for high-performance web applications</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(110).pdf" style="text-decoration:none;">Text Detection and Recognition in the Wild: A Review </a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(111).pdf" style="text-decoration:none;">Deep Learning for Text Spotting</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(112).pdf" style="text-decoration:none;">Learning Markov Clustering Networks for Scene Text Detection</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(113).pdf" style="text-decoration:none;">Scene Text Detection and Recognition: The Deep Learning Era</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(114).pdf" style="text-decoration:none;">TextNet: Irregular Text Reading from Images with an End-to-End Trainable Network</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Scene-Text-Localization-and-Recognition-Papers/blob/master/l(115).pdf" style="text-decoration:none;">Towards End-to-End Text Spotting in Natural Scenes</a></li>  
    
  </ul>
